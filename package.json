@@ -1,20 +1,20 @@
 {
   "name": "addSolidityComments",
   "displayName": "Add solidity comments",
-  "description": "Adds solidity comments for all code",
-  "icon": "images/comment_logo.svg",
+  "description": "Adds solidity comments for the whole file in one command",
+  "icon": "images/logo.png",
   "galleryBanner": {
     "color": "#5c2d91",
     "theme": "dark"
   },
   "license": "SEE LICENSE IN LICENSE.md",
   "bugs": {
-    "url": "https://github.com/GoodDollar/vscode-comment/issues"
+    "url": "https://github.com/GoodDollar/vscode-solidity-comment/issues"
   },
-  "homepage": "https://github.com/GoodDollar/vscode-comment/blob/master/README.md",
+  "homepage": "https://github.com/GoodDollar/vscode-solidity-comment/blob/master/README.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/GoodDollar/vscode-comment.git"
+    "url": "https://github.com/GoodDollar/vscode-solidity-comment.git"
   },
   "categories": [
     "Other"
